@@ -76,7 +76,7 @@ function App() {
       />
       {/* </Route> */}
       {/* // <Route exact path="/about"> */}
-      {/* // <About darkMode={darkMode} moonlitMode={moonlitMode} /> */}
+      <About darkMode={darkMode} moonlitMode={moonlitMode} />
       {/* // </Route> */}
       {/* // </Switch> */}
       {/* // </Router> */}
